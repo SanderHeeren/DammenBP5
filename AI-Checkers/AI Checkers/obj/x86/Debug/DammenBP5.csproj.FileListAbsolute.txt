@@ -1,0 +1,10 @@
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\obj\x86\Debug\AICheckers.BoardPanel.resources
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\obj\x86\Debug\AICheckers.FormMain.resources
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\obj\x86\Debug\AICheckers.Properties.Resources.resources
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\obj\x86\Debug\DammenBP5.csproj.GenerateResource.cache
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\obj\x86\Debug\DammenBP5.csproj.CoreCompileInputs.cache
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\obj\x86\Debug\AI Checkers.exe
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\obj\x86\Debug\AI Checkers.pdb
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\bin\Debug\AI Checkers.exe
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\bin\Debug\AI Checkers.pdb
+C:\Users\Sander Heeren\Desktop\AI-Checkers-master\AI Checkers\obj\x86\Debug\DammenBP5.csprojAssemblyReference.cache
